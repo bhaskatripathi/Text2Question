@@ -1,12 +1,7 @@
-# QuestAnsGenerator
+# Text2Question Generation with Text-to-Text-Transfer-Transformer
 
-metadata
+## Usage:
+1. Give an input text.
+2. Generate important questions from that text to know what are teh right questions to ask.
 
-title: Question Generation Using T5
-emoji: ⚡
-colorFrom: blue
-colorTo: gray
-sdk: gradio
-sdk_version: 3.12.0
-app_file: app.py
-pinned: false
+## Demo URL : https://huggingface.co/spaces/bhaskartripathi/Text2Question
